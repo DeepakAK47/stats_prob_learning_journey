@@ -10,3 +10,9 @@ Understood Contingency Tables for analyzing relationships between categorical va
 Real-world data often has unequal importance → use weighted mean
 Range gives quick spread, but is less detailed
 Contingency tables help find patterns in categorical data
+
+Day 1 Learning parametric and non parametric distribution curve
+
+-> KDE plot
+-> different types of the distribution overview
+-> determine the probability of random generated data 
